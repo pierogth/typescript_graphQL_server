@@ -5,9 +5,9 @@ generator client {
   provider = "prisma-client-js"
 }
 
-/* Photos is a popular schema builder used for build a graphQL schema in a code-first approach */
+// Photos is a popular schema builder used for build a graphQL schema in a code-first approach 
 
-enerator pothos {
+generator pothos {
 
   provider = "prisma-pothos-types"
 
